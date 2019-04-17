@@ -1,26 +1,15 @@
 # Beezniss
 
-Beezniss is a single-page business dashboard built with React, incorporating many components of utility to businesses, including a task manager, a sales forecaster, live messaging and video conferencing.  
+Beezniss is a single-page business dashboard built with React and Node/Express/MySQL, incorporating many components of utility to businesses, including a task manager, a sales forecaster, live messaging and video conferencing.  
 
+## Code excerpts
 
-## Running the app locally
+![Task Model](https://user-images.githubusercontent.com/34467850/56310826-a275c700-6101-11e9-8aad-a7aa803dc0eb.png)
 
-Clone down the directory and navigate to in in your terminal.  While in this directory, run the following commands:
+![taskController.js](https://user-images.githubusercontent.com/34467850/56311125-1f08a580-6102-11e9-9bed-82f3be5e264c.png)
 
-```
-yarn install
-cd client
-yarn install
-cd ..
-```
+![taskRouter.js](https://user-images.githubusercontent.com/34467850/56311180-40699180-6102-11e9-99ec-899f70595d4e.png)
 
-After both installations complete, run the following command in your terminal:
-
-```
-yarn start
-```
-
-That's it! The app should then automatically run on <http://localhost:3000>. 
 
 ## Technologies utilized 
 

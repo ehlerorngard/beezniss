@@ -1,14 +1,9 @@
 # Beezniss <img src="https://user-images.githubusercontent.com/34467850/56313237-fcc55680-6106-11e9-964f-c06ab4abf105.png" alt="logo" width="96" />
 
-Beezniss is a single-page business dashboard built with React and Node/Express/MySQL, incorporating many components of utility to businesses and their employees, including a task manager, a sales forecaster, a marketing performance grapher, live messaging, a social media feed, & videoconferencing capability. j 
-
-Leader and chief contributor of a 5-member team;  
-Sole builder of the backend for the app, including db models with Sequelize (models for project, task, user, et al.), routes with Express and Axios;  built entire Task Manager component, including frontend in React
-* Description:  A business management dashboard displaying to employees a 
-task manager, a sales forecaster, 
+Beezniss is a single-page business dashboard built with React and Node/Express/MySQL, incorporating many components of utility to businesses and their employees, including a task manager, a sales forecaster, a marketing performance grapher, live messaging, a social media feed, & videoconferencing capability.
 
 
-## building the app
+## the build
 I (Ehler) built this app along with 4 team members.  
 
 As the lead developer and chief contributor, I worked on most facets of the app, 
@@ -21,7 +16,7 @@ but I _alone_ **built**
 
 ## [test Beezniss for yourself here!](https://beezniss.herokuapp.com/)
 
-## Code excerpts
+## code excerpts
 
 ### taskModel.js
 The model definition for the tasks table in the database via the object-relational-mapper sequelize:
@@ -36,7 +31,7 @@ The taskRouter funnels requests from the frontend (Task Manager panel) to the ap
 <img src="https://user-images.githubusercontent.com/34467850/56311180-40699180-6102-11e9-99ec-899f70595d4e.png" alt="taskRouter.js" width="806" />
 
 
-## Technologies utilized 
+## technologies utilized 
 * React
 * Express
 * Node

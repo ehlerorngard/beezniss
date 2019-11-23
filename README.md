@@ -3,14 +3,6 @@
 Beezniss is a single-page business dashboard built with React and Node/Express/MySQL, incorporating many components of utility to businesses and their employees, including a task manager, a sales forecaster, a marketing performance grapher, live messaging, a social media feed, & videoconferencing capability.
 
 
-## the build
-I (Ehler) built this app along with 4 team members.  
-
-As the lead developer and chief contributor, I worked on most facets of the app, 
-but I _alone_ **built**
-* the **backend**, including db models, routes, and controllers
-* the **Task Manager component** _(à la Trello / Jira)_, including frontend in React/SemanticUI
-
 ## Beezniss in action
 ![beeznissTaskManager](https://user-images.githubusercontent.com/34467850/56338322-72a8dc80-615e-11e9-958b-1818c70136d3.gif)
 
